@@ -31,7 +31,7 @@ Sample-Superstore-Sales-Analysis/
 ├── Screenshots/
 
 │   ├── Excel_Dashboard
-    ![Image Alt](image_url)
+    ![Image Alt](https://github.com/ilango1564/Superstore_Sales_Data_Analysis/blob/050cc5ffd5c8d79ce3e0ebc55365da65e2b08f2c/Screenshots/Excel_Dashboard/image.png)
 
 
 
