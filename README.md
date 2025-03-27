@@ -42,8 +42,9 @@ Sample-Superstore-Sales-Analysis/
 
 └── README.md
 
-🔥 Key Insights & Analysis
+🔥 Key Insights & Analysis 
 The analysis focuses on the following areas:
+
 Sales & Profit Trends
 Regional Performance
 Top & Bottom Performing Products
