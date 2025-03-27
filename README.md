@@ -1,5 +1,7 @@
 Sample Superstore Sales Data Analysis
+
 📄 Project Overview
+
 This project is focused on analyzing Sample Superstore Sales Data to derive key business insights related to sales, profit, and customer orders.
 The analysis has been done using both Microsoft Excel and Microsoft Power BI to showcase data analysis and visualization skills on the same dataset.
 
