@@ -36,7 +36,7 @@ Sample-Superstore-Sales-Analysis/
 
 
 │   └── PowerBI_Dashboard
-    ![Image Alt](image_url)
+    ![Image Alt](https://github.com/ilango1564/Superstore_Sales_Data_Analysis/blob/80bb592db633c0de27cb3d7b3c837e80cb69cc3a/Screenshots/PowerBI_Dashboard/image.png)
 
 
 
